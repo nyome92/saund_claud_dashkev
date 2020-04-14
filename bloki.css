@@ -1,0 +1,53 @@
+#container {
+    background-color: #f2f2f2;
+    height:100%;
+}
+
+#menu {
+    background-color:#333;
+    height: 46px;
+    color:#999;
+
+}
+
+#main {
+    background-color:#fff;
+}
+body,html {
+    height: 100%;
+}
+
+#podmenu {
+    background-color: yellow;
+}
+.centr {
+    width: 800px;
+    height: 100%;
+    margin: 0 auto;
+    /* display: inline-block; */
+}
+.links {
+
+}
+.link {
+    display: inline-block;
+}
+.picture{
+
+}
+.picture > img {
+    width: 150px;
+    height: 150px;
+}
+
+.centr {
+    
+
+}
+.logo > img {
+    height: 46px;
+    width: 69px;
+}
+#heading {
+    
+}
